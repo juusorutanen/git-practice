@@ -2,6 +2,8 @@
 
 A repository of practising fundamentals aspect of using Git in a workplace. Learning how to branch, merge, solve merge conflicts, creating feature branches, do pull requests and code reviews.
 
+# Used commands:
+
 git branch branchname
 git checkout branchname
 git log --all --graph
